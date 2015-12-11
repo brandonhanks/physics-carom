@@ -1,0 +1,1 @@
+Carom game developed by Knowledge Engineering students; it simulates the physics of the game, spin effects, introduces noise to the system and proposes a basic AI to play against with.
